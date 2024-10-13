@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px">, I'm Cucumber</h1> 
+    width="30px">, I'm Cucumber <a href="#"><img width="20%" height="auto" src="https://github.com/user-attachments/assets/d35c6e3f-0f7d-44fc-a59b-caac1df682f7" height="175px" /></a></h1> 
 
-<a href="#"><img width="20%" height="auto" src="https://github.com/user-attachments/assets/d35c6e3f-0f7d-44fc-a59b-caac1df682f7" height="175px" /></a>
+
 
 [![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cucumber_scripts)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cucumber-pickle/Cucumber)
