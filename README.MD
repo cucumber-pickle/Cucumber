@@ -18,5 +18,3 @@
 
 <br />
 
-<a href="https://github.com/cucumber-pickle"><img alt="cucumber-pickle's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=cucumber-pickle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
